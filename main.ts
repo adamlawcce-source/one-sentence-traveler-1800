@@ -5,7 +5,7 @@ import { mkdirSync, writeFileSync } from "node:fs";
 // already know — a library, a post office, a market, a road — so the picture
 // lands in their head with no word coined after their time.
 const TEXT =
-  "Imagine every library, post office and market in the world joined by one road, so any letter, book or face can arrive at your door in the blink of an eye.";
+  "Imagine every library, post office and market in the world joined by one road, so any letter, book or friend can arrive at your door in the blink of an eye.";
 
 mkdirSync("/output", { recursive: true });
 
